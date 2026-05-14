@@ -1,5 +1,12 @@
-# Velori CLI
+# protopen CLI
 
-Deploy static sites from your terminal.
+This repository has moved.
 
-Install: `curl -fsSL https://app.velori.dev/install.sh | bash`
+The protopen CLI now ships from the main protopen repository:
+
+- **Source code:** https://github.com/samsolomon/protopen
+- **Downloads:** https://github.com/samsolomon/protopen/releases/latest
+
+This archived repo previously hosted release binaries under the name
+`velori-cli` and `protopen-cli`. All artifacts now come from
+`samsolomon/protopen` directly.
